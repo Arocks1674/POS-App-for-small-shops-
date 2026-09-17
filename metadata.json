@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Pan Shop POS",
+  "description": "High-contrast, high-speed MVP POS for Indian Pan Shop owners optimized for outdoor environments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
